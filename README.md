@@ -1,101 +1,158 @@
-# Privacy Policy
+<h1>Política de Privacidade</h1>
 
-**Last updated:** 2026
+<p><strong>Última atualização:</strong> 2026</p>
 
-This Privacy Policy describes how the application **"Meu Endereço Geográfico"**, developed by **Marovisk**, handles user information.
+<p>Esta Política de Privacidade descreve como o aplicativo <strong>"Meu Endereço Geográfico"</strong>, desenvolvido por <strong>Marovisk</strong>, trata as informações do usuário.</p>
 
----
+<hr>
 
-## 1. Information We Collect
+<h2>1. Informações Coletadas</h2>
+<p>O aplicativo pode acessar os seguintes dados:</p>
+<ul>
+<li>Localização do dispositivo (GNSS / GPS)</li>
+<li>Informações básicas do dispositivo (para funcionamento do app)</li>
+</ul>
 
-The application may access the following data:
+<h2>2. Uso das Informações</h2>
+<p>Os dados são utilizados exclusivamente para:</p>
+<ul>
+<li>Exibir suas coordenadas geográficas em tempo real</li>
+<li>Permitir o compartilhamento de coordenadas</li>
+<li>Melhorar o funcionamento do aplicativo</li>
+</ul>
 
-* Device location (GNSS / GPS)
-* Basic device information (for app functionality)
+<p>O aplicativo <strong>NÃO armazena, salva ou transmite sua localização para servidores externos</strong>.</p>
 
----
+<h2>3. Dados de Localização</h2>
+<p>A localização é utilizada:</p>
+<ul>
+<li>Apenas em tempo real</li>
+<li>Apenas no dispositivo do usuário</li>
+</ul>
 
-## 2. Use of Information
+<p>O aplicativo não:</p>
+<ul>
+<li>Armazena localização</li>
+<li>Compartilha localização</li>
+<li>Rastreia o usuário</li>
+</ul>
 
-The collected data is used exclusively to:
+<h2>4. Anúncios</h2>
+<p>O aplicativo pode exibir anúncios por meio de serviços de terceiros, como o Google AdMob.</p>
 
-* Display your current geographic coordinates
-* Enable coordinate sharing features
-* Improve application functionality
+<p>Esses serviços podem coletar dados como:</p>
+<ul>
+<li>Identificadores do dispositivo</li>
+<li>Dados de uso</li>
+</ul>
 
-The app **does NOT store, save, or transmit your location to any server**.
+<p>Para mais informações:</p>
+<p>https://policies.google.com/technologies/ads</p>
 
----
+<h2>5. Compras no Aplicativo</h2>
+<p>O aplicativo pode oferecer uma compra opcional para remoção de anúncios.</p>
 
-## 3. Location Data
+<p>Os pagamentos são processados de forma segura pela Google Play.</p>
 
-Location data is used **only in real time** and **only on your device**.
+<p>Nenhuma informação de pagamento é armazenada pelo aplicativo.</p>
 
-We do not:
+<h2>6. Compartilhamento de Dados</h2>
+<p>O aplicativo não compartilha dados pessoais ou de localização com terceiros.</p>
 
-* Store your location
-* Share your location
-* Track your movement
+<h2>7. Segurança</h2>
+<p>São adotadas medidas razoáveis para proteger as informações do usuário.</p>
+<p>No entanto, nenhum método é totalmente seguro.</p>
 
----
+<h2>8. Privacidade Infantil</h2>
+<p>O aplicativo não é destinado a menores de 13 anos e não coleta dados intencionalmente de crianças.</p>
 
-## 4. Advertising
+<h2>9. Alterações</h2>
+<p>Esta política pode ser atualizada periodicamente.</p>
+<p>Recomendamos revisar esta página regularmente.</p>
 
-This app may display ads through third-party services (such as Google AdMob).
+<h2>10. Contato</h2>
+<p>Em caso de dúvidas:</p>
+<p>📧 marovisk.apps@gmail.com</p>
 
-These services may collect:
+<hr>
 
-* Device identifiers
-* Usage data
+<h1>Privacy Policy</h1>
 
-For more information, please refer to:
-https://policies.google.com/technologies/ads
+<p><strong>Last updated:</strong> 2026</p>
 
----
+<p>This Privacy Policy describes how the application <strong>"Meu Endereço Geográfico"</strong>, developed by <strong>Marovisk</strong>, handles user information.</p>
 
-## 5. In-App Purchases
+<hr>
 
-The app offers an optional purchase to remove advertisements.
+<h2>1. Information We Collect</h2>
+<p>The application may access:</p>
+<ul>
+<li>Device location (GNSS / GPS)</li>
+<li>Basic device information (for app functionality)</li>
+</ul>
 
-Payments are securely processed by Google Play.
+<h2>2. Use of Information</h2>
+<p>The data is used exclusively to:</p>
+<ul>
+<li>Display geographic coordinates in real time</li>
+<li>Enable coordinate sharing features</li>
+<li>Improve app functionality</li>
+</ul>
 
-We do not store any payment information.
+<p>The app <strong>does NOT store, save, or transmit location data to external servers</strong>.</p>
 
----
+<h2>3. Location Data</h2>
+<p>Location is used:</p>
+<ul>
+<li>Only in real time</li>
+<li>Only on the user's device</li>
+</ul>
 
-## 6. Data Sharing
+<p>The app does not:</p>
+<ul>
+<li>Store location</li>
+<li>Share location</li>
+<li>Track users</li>
+</ul>
 
-We do not share any personal or location data with third parties.
+<h2>4. Advertising</h2>
+<p>The app may display ads through third-party services such as Google AdMob.</p>
 
----
+<p>These services may collect:</p>
+<ul>
+<li>Device identifiers</li>
+<li>Usage data</li>
+</ul>
 
-## 7. Security
+<p>More information:</p>
+<p>https://policies.google.com/technologies/ads</p>
 
-We take reasonable measures to protect your information.
-However, no method of transmission or storage is 100% secure.
+<h2>5. In-App Purchases</h2>
+<p>The app may offer an optional purchase to remove ads.</p>
 
----
+<p>Payments are securely processed by Google Play.</p>
 
-## 8. Children's Privacy
+<p>No payment information is stored by the app.</p>
 
-This app is not directed to children under 13.
-We do not knowingly collect data from children.
+<h2>6. Data Sharing</h2>
+<p>No personal or location data is shared with third parties.</p>
 
----
+<h2>7. Security</h2>
+<p>We take reasonable measures to protect user information.</p>
+<p>However, no method is 100% secure.</p>
 
-## 9. Changes to This Policy
+<h2>8. Children's Privacy</h2>
+<p>This app is not directed to children under 13.</p>
+<p>We do not knowingly collect data from children.</p>
 
-We may update this Privacy Policy from time to time.
-Changes will be reflected on this page.
+<h2>9. Changes</h2>
+<p>This policy may be updated periodically.</p>
+<p>Please review it regularly.</p>
 
----
+<h2>10. Contact</h2>
+<p>If you have any questions:</p>
+<p>📧 marovisk.apps@gmail.com</p>
 
-## 10. Contact
+<hr>
 
-If you have any questions, contact:
-
-📧 [marovisk.apps@gmail.com](mailto:marovisk.apps@gmail.com)
-
----
-
-© Marovisk
+<p>© Marovisk</p>
