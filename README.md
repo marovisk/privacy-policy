@@ -1,158 +1,518 @@
-<h1>Política de Privacidade</h1>
+# Política de Privacidade
 
-<p><strong>Última atualização:</strong> 2026</p>
+**Última atualização:** 27 de julho de 2026
 
-<p>Esta Política de Privacidade descreve como o aplicativo <strong>"Meu Endereço Geográfico"</strong>, desenvolvido por <strong>Marovisk</strong>, trata as informações do usuário.</p>
+Esta Política de Privacidade descreve como o aplicativo **Meu Endereço Geográfico**, desenvolvido por **Marovisk**, acessa, utiliza, processa e, quando aplicável, compartilha informações durante sua utilização.
 
-<hr>
+O aplicativo foi desenvolvido para auxiliar na obtenção, visualização, conversão e compartilhamento de coordenadas geográficas em diferentes sistemas de referência e formatos.
 
-<h2>1. Informações Coletadas</h2>
-<p>O aplicativo pode acessar os seguintes dados:</p>
-<ul>
-<li>Localização do dispositivo (GNSS / GPS)</li>
-<li>Informações básicas do dispositivo (para funcionamento do app)</li>
-</ul>
+O **Meu Endereço Geográfico** prioriza o processamento local das informações sempre que possível e não utiliza servidores próprios para armazenar dados pessoais ou históricos de localização dos usuários.
 
-<h2>2. Uso das Informações</h2>
-<p>Os dados são utilizados exclusivamente para:</p>
-<ul>
-<li>Exibir suas coordenadas geográficas em tempo real</li>
-<li>Permitir o compartilhamento de coordenadas</li>
-<li>Melhorar o funcionamento do aplicativo</li>
-</ul>
+---
 
-<p>O aplicativo <strong>NÃO armazena, salva ou transmite sua localização para servidores externos</strong>.</p>
+# 1. Escopo desta Política
 
-<h2>3. Dados de Localização</h2>
-<p>A localização é utilizada:</p>
-<ul>
-<li>Apenas em tempo real</li>
-<li>Apenas no dispositivo do usuário</li>
-</ul>
+Esta Política aplica-se exclusivamente ao aplicativo **Meu Endereço Geográfico** para Android.
 
-<p>O aplicativo não:</p>
-<ul>
-<li>Armazena localização</li>
-<li>Compartilha localização</li>
-<li>Rastreia o usuário</li>
-</ul>
+Ela descreve:
 
-<h2>4. Anúncios</h2>
-<p>O aplicativo pode exibir anúncios por meio de serviços de terceiros, como o Google AdMob.</p>
+- quais informações podem ser acessadas pelo aplicativo;
+- como essas informações são utilizadas;
+- quais dados permanecem somente no dispositivo;
+- quando serviços de terceiros podem processar determinadas informações;
+- quais opções de controle permanecem disponíveis ao usuário.
 
-<p>Esses serviços podem coletar dados como:</p>
-<ul>
-<li>Identificadores do dispositivo</li>
-<li>Dados de uso</li>
-</ul>
+Esta Política não se aplica aos aplicativos, serviços ou páginas de terceiros acessados por meio do sistema Android ou de recursos de compartilhamento.
 
-<p>Para mais informações:</p>
-<p>https://policies.google.com/technologies/ads</p>
+---
 
-<h2>5. Compras no Aplicativo</h2>
-<p>O aplicativo pode oferecer uma compra opcional para remoção de anúncios.</p>
+# 2. Acesso à localização
 
-<p>Os pagamentos são processados de forma segura pela Google Play.</p>
+Para desempenhar suas funções principais, o aplicativo solicita permissão para acessar a localização do dispositivo.
 
-<p>Nenhuma informação de pagamento é armazenada pelo aplicativo.</p>
+Os serviços de localização do Android podem utilizar sinais de uma ou mais constelações de sistemas globais de navegação por satélite (GNSS), incluindo o GPS, conforme a compatibilidade do aparelho e as condições de recepção, além de outras fontes de posicionamento disponibilizadas pelo sistema Android e pelo dispositivo.
 
-<h2>6. Compartilhamento de Dados</h2>
-<p>O aplicativo não compartilha dados pessoais ou de localização com terceiros.</p>
+Essas informações são utilizadas exclusivamente para:
 
-<h2>7. Segurança</h2>
-<p>São adotadas medidas razoáveis para proteger as informações do usuário.</p>
-<p>No entanto, nenhum método é totalmente seguro.</p>
+- determinar a posição atual do dispositivo;
+- apresentar coordenadas geográficas em diferentes formatos;
+- realizar conversões entre sistemas de coordenadas;
+- disponibilizar recursos relacionados à localização.
 
-<h2>8. Privacidade Infantil</h2>
-<p>O aplicativo não é destinado a menores de 13 anos e não coleta dados intencionalmente de crianças.</p>
+As coordenadas obtidas são processadas localmente pelo aplicativo.
 
-<h2>9. Alterações</h2>
-<p>Esta política pode ser atualizada periodicamente.</p>
-<p>Recomendamos revisar esta página regularmente.</p>
+O aplicativo não transmite automaticamente as coordenadas para servidores controlados pelo desenvolvedor.
 
-<h2>10. Contato</h2>
-<p>Em caso de dúvidas:</p>
-<p>📧 marovisk.apps@gmail.com</p>
+O desenvolvedor não mantém histórico das coordenadas utilizadas pelo usuário.
 
-<hr>
+Dependendo das configurações do Android, o usuário poderá conceder acesso à localização precisa ou apenas aproximada.
 
-<h1>Privacy Policy</h1>
+---
 
-<p><strong>Last updated:</strong> 2026</p>
+# 3. Processamento local das informações
 
-<p>This Privacy Policy describes how the application <strong>"Meu Endereço Geográfico"</strong>, developed by <strong>Marovisk</strong>, handles user information.</p>
+Sempre que tecnicamente possível, o processamento das informações ocorre diretamente no dispositivo.
 
-<hr>
+Isso inclui, entre outras funções:
 
-<h2>1. Information We Collect</h2>
-<p>The application may access:</p>
-<ul>
-<li>Device location (GNSS / GPS)</li>
-<li>Basic device information (for app functionality)</li>
-</ul>
+- conversão entre formatos de coordenadas;
+- exibição das coordenadas;
+- geração dos textos utilizados para compartilhamento;
+- preparação das informações utilizadas pelo recurso de emergência;
+- funcionamento das ferramentas de conversão.
 
-<h2>2. Use of Information</h2>
-<p>The data is used exclusively to:</p>
-<ul>
-<li>Display geographic coordinates in real time</li>
-<li>Enable coordinate sharing features</li>
-<li>Improve app functionality</li>
-</ul>
+O aplicativo não possui infraestrutura própria para processamento remoto dessas informações.
 
-<p>The app <strong>does NOT store, save, or transmit location data to external servers</strong>.</p>
+---
 
-<h2>3. Location Data</h2>
-<p>Location is used:</p>
-<ul>
-<li>Only in real time</li>
-<li>Only on the user's device</li>
-</ul>
+# 4. Compartilhamento voluntário de coordenadas
 
-<p>The app does not:</p>
-<ul>
-<li>Store location</li>
-<li>Share location</li>
-<li>Track users</li>
-</ul>
+O aplicativo permite que o usuário copie ou compartilhe coordenadas utilizando os mecanismos padrão do Android.
 
-<h2>4. Advertising</h2>
-<p>The app may display ads through third-party services such as Google AdMob.</p>
+Essas operações somente ocorrem após uma ação voluntária e explícita do usuário.
 
-<p>These services may collect:</p>
-<ul>
-<li>Device identifiers</li>
-<li>Usage data</li>
-</ul>
+O aplicativo pode:
 
-<p>More information:</p>
-<p>https://policies.google.com/technologies/ads</p>
+- copiar coordenadas para a área de transferência do Android;
+- abrir o compartilhamento nativo do sistema Android para que o usuário escolha o aplicativo ou serviço de destino.
 
-<h2>5. In-App Purchases</h2>
-<p>The app may offer an optional purchase to remove ads.</p>
+O aplicativo não realiza compartilhamentos automáticos.
 
-<p>Payments are securely processed by Google Play.</p>
+O aplicativo não envia coordenadas automaticamente para serviços de emergência.
 
-<p>No payment information is stored by the app.</p>
+O aplicativo não realiza chamadas telefônicas automáticas.
 
-<h2>6. Data Sharing</h2>
-<p>No personal or location data is shared with third parties.</p>
+O aplicativo não envia mensagens automaticamente.
 
-<h2>7. Security</h2>
-<p>We take reasonable measures to protect user information.</p>
-<p>However, no method is 100% secure.</p>
+O aplicativo não lê o conteúdo previamente existente na área de transferência do dispositivo.
 
-<h2>8. Children's Privacy</h2>
-<p>This app is not directed to children under 13.</p>
-<p>We do not knowingly collect data from children.</p>
+Após o compartilhamento ser iniciado pelo usuário, o tratamento das informações passa a ser de responsabilidade do aplicativo ou serviço escolhido, de acordo com suas próprias políticas de privacidade e termos de uso.
 
-<h2>9. Changes</h2>
-<p>This policy may be updated periodically.</p>
-<p>Please review it regularly.</p>
+O desenvolvedor não controla o tratamento realizado por esses serviços externos.
 
-<h2>10. Contact</h2>
-<p>If you have any questions:</p>
-<p>📧 marovisk.apps@gmail.com</p>
+---
 
-<hr>
+# 5. Armazenamento local
 
-<p>© Marovisk</p>
+O aplicativo pode armazenar determinadas informações exclusivamente no próprio dispositivo, utilizando os mecanismos de armazenamento disponibilizados pelo Android.
+
+Essas informações destinam-se apenas ao funcionamento normal do aplicativo e podem incluir, entre outras:
+
+- preferências de configuração;
+- opções de interface;
+- estado local da compra do recurso **Remover anúncios**;
+- outras configurações necessárias para preservar a experiência de uso.
+
+Esses dados permanecem armazenados localmente e não são enviados automaticamente para servidores controlados pelo desenvolvedor.
+
+A remoção dos dados do aplicativo ou sua desinstalação poderá eliminar essas informações locais, conforme o comportamento padrão do sistema Android.
+
+---
+
+# 6. Publicidade
+
+A versão gratuita do aplicativo utiliza o serviço **Google Mobile Ads (AdMob)** para exibição de anúncios.
+
+Esse serviço é fornecido pelo Google e poderá coletar determinadas informações diretamente, de acordo com suas próprias políticas de privacidade e termos de uso.
+
+Essas informações podem incluir, entre outras:
+
+- identificadores de publicidade;
+- identificadores do dispositivo;
+- endereço IP;
+- informações técnicas do dispositivo;
+- diagnósticos;
+- informações de desempenho;
+- localização aproximada derivada do endereço IP, quando aplicável.
+
+O desenvolvedor não controla a coleta realizada pelo Google nem possui acesso direto às informações coletadas pelos serviços de publicidade.
+
+Para mais informações, consulte:
+
+- Google Privacy Policy:
+  https://policies.google.com/privacy
+
+- Google Ads Policy:
+  https://policies.google.com/technologies/ads
+
+---
+
+# 7. Compras no aplicativo
+
+O aplicativo oferece, de forma opcional, o recurso **Remover anúncios**, disponibilizado por meio do **Google Play Billing**.
+
+As transações são processadas exclusivamente pelos sistemas oficiais da Google Play.
+
+O aplicativo não coleta nem armazena:
+
+- dados bancários;
+- números de cartões;
+- senhas;
+- informações de pagamento.
+
+Após uma compra válida, o aplicativo consulta o estado da aquisição utilizando os mecanismos oficiais da Google Play para restaurar ou manter o acesso ao recurso adquirido.
+
+Para preservar esse estado durante o uso normal do aplicativo, pode ser armazenada localmente apenas a informação necessária para indicar que a compra foi reconhecida.
+
+---
+
+# 8. Serviços de terceiros
+
+O aplicativo pode interagir com serviços disponibilizados por terceiros, incluindo recursos fornecidos pelo próprio sistema Android e pelo Google.
+
+Esses serviços podem possuir políticas próprias de privacidade e tratamento de dados.
+
+Entre eles podem estar:
+
+- Android Location Services;
+- Google Play Services;
+- Google Play Billing;
+- Google Mobile Ads (AdMob);
+- compartilhamento nativo do Android.
+
+O tratamento realizado por esses serviços é regido por suas respectivas políticas e não por esta Política de Privacidade.
+
+---
+
+# 9. Segurança das informações
+
+O desenvolvedor adota medidas razoáveis para proteger as informações tratadas pelo aplicativo, considerando as características da plataforma Android e os recursos utilizados.
+
+Entretanto, nenhum método de armazenamento eletrônico, processamento ou transmissão de dados pode ser considerado absolutamente seguro.
+
+Por esse motivo, não é possível garantir segurança absoluta em todas as circunstâncias.
+
+---
+
+# 10. Retenção de informações
+
+Como regra geral, o aplicativo não mantém servidores próprios para armazenamento de informações pessoais dos usuários.
+
+As informações utilizadas durante o funcionamento normal permanecem, sempre que possível, apenas no dispositivo do usuário.
+
+Os dados armazenados localmente permanecem disponíveis até que sejam removidos pelo próprio usuário, pela limpeza dos dados do aplicativo, pela desinstalação ou por alterações realizadas pelo sistema Android.
+
+---
+
+# 11. Direitos do usuário
+
+O usuário poderá, a qualquer momento:
+
+- conceder ou revogar permissões de localização;
+- limpar os dados do aplicativo;
+- desinstalar o aplicativo;
+- redefinir ou gerenciar identificadores de publicidade, quando disponíveis;
+- configurar preferências relacionadas à privacidade por meio do Android e da Conta Google.
+
+Alguns serviços de terceiros poderão oferecer controles adicionais diretamente em suas próprias plataformas.
+
+---
+
+# 12. Privacidade de crianças
+
+O aplicativo não foi desenvolvido especificamente para crianças menores de 13 anos.
+
+O desenvolvedor não coleta intencionalmente dados pessoais de crianças.
+
+Caso seja identificado o tratamento involuntário de informações em desacordo com a legislação aplicável, medidas razoáveis poderão ser adotadas para sua correção, quando tecnicamente possível.
+
+---
+
+# 13. Alterações nesta Política
+
+Esta Política de Privacidade poderá ser atualizada periodicamente para refletir:
+
+- alterações na legislação aplicável;
+- mudanças técnicas no aplicativo;
+- inclusão, modificação ou remoção de funcionalidades;
+- alterações relacionadas aos serviços de terceiros utilizados.
+
+A data da última atualização será informada no início deste documento.
+
+O uso continuado do aplicativo após a publicação de uma versão atualizada desta Política representa a ciência da versão vigente.
+
+---
+
+# 14. Contato
+
+Em caso de dúvidas, sugestões ou solicitações relacionadas a esta Política de Privacidade, entre em contato por meio do endereço:
+
+**marovisk.apps@gmail.com**
+
+---
+
+# 15. Transparência e natureza do aplicativo
+
+O **Meu Endereço Geográfico** é uma ferramenta independente de apoio à visualização, conversão e compartilhamento de coordenadas geográficas.
+
+O aplicativo não é oficial, não representa, não possui afiliação e não mantém vínculo com órgãos governamentais, militares, policiais, de defesa civil, serviços de emergência ou provedores oficiais de cartografia.
+
+O aplicativo não substitui equipamentos GNSS, instrumentos de navegação, aplicativos oficiais, procedimentos operacionais, cartas, mapas ou sistemas homologados utilizados em atividades profissionais, técnicas ou operacionais.
+
+A precisão das coordenadas depende de diversos fatores, incluindo, entre outros:
+
+- qualidade do receptor do dispositivo;
+- sensores disponíveis;
+- configuração do sistema Android;
+- disponibilidade dos sinais GNSS;
+- condições ambientais;
+- interferências físicas ou eletromagnéticas.
+
+Em atividades críticas, operacionais ou de emergência, recomenda-se sempre confirmar a posição utilizando meios adicionais e seguir os procedimentos oficiais aplicáveis.
+
+---
+
+# Privacy Policy
+
+**Last updated:** July 27, 2026
+
+This Privacy Policy describes how the **Meu Endereço Geográfico** application, developed by **Marovisk**, accesses, uses, processes and, where applicable, shares information during its operation.
+
+The application was designed to assist users in obtaining, viewing, converting and sharing geographic coordinates using different coordinate systems and formats.
+
+Whenever technically possible, information is processed locally on the user's device.
+
+The application does not operate proprietary backend servers for storing users' personal information or location history.
+
+---
+
+# 1. Scope
+
+This Privacy Policy applies exclusively to the Android application **Meu Endereço Geográfico**.
+
+It explains:
+
+- which information may be accessed;
+- how this information is used;
+- which data remains stored only on the device;
+- when third-party services may process certain information;
+- which privacy controls remain available to the user.
+
+This Policy does not apply to third-party applications or services accessed through Android or through the native sharing features.
+
+---
+
+# 2. Location access
+
+To provide its main features, the application requests permission to access the device location.
+
+Android location services may use signals from one or more Global Navigation Satellite System (GNSS) constellations, including GPS, depending on device compatibility, reception conditions and other positioning sources provided by Android and the device itself.
+
+Location information is used exclusively to:
+
+- determine the current position of the device;
+- display geographic coordinates in different formats;
+- convert coordinates between supported systems;
+- provide location-related features.
+
+The application does not automatically transmit coordinates to servers controlled by the developer.
+
+The developer does not maintain a history of the user's geographic coordinates.
+
+Depending on Android settings, users may grant access to precise or approximate location.
+
+Coordinates are processed locally by the application whenever technically possible.
+
+This includes, among other functions:
+
+- coordinate conversion;
+- coordinate display;
+- generation of text prepared for sharing;
+- preparation of information used by the emergency feature;
+- coordinate conversion utilities.
+
+The application does not maintain proprietary infrastructure for remotely processing these data.
+
+---
+
+# 3. Voluntary sharing
+
+The application allows users to copy or share geographic coordinates using Android's standard mechanisms.
+
+These actions occur only after an explicit user action.
+
+The application may:
+
+- copy coordinates to the Android clipboard;
+- open Android's native sharing interface so that the user may choose the destination application or service.
+
+The application does not perform automatic sharing.
+
+The application does not automatically contact emergency services.
+
+The application does not automatically place phone calls.
+
+The application does not automatically send messages.
+
+The application does not read clipboard contents that already exist on the device.
+
+Once sharing has been initiated by the user, the selected application or service becomes responsible for processing the shared information according to its own Privacy Policy and Terms of Service.
+
+The developer has no control over how third-party services process shared information.
+
+---
+
+# 4. Local storage
+
+The application may store certain information locally on the device using Android storage mechanisms.
+
+This information may include:
+
+- application preferences;
+- interface settings;
+- the local status of the **Remove Ads** purchase;
+- additional configuration required for normal application operation.
+
+These data remain stored locally and are not automatically transmitted to servers controlled by the developer.
+
+Removing application data or uninstalling the application may remove these locally stored information according to Android's standard behavior.
+
+---
+
+# 5. Advertising
+
+The free version of the application uses **Google Mobile Ads (AdMob)**.
+
+AdMob is operated by Google and may collect certain technical information in accordance with Google's own Privacy Policy.
+
+Such information may include, among others:
+
+- advertising identifiers;
+- device identifiers;
+- IP address;
+- device information;
+- diagnostics;
+- performance information;
+- approximate location derived from the IP address, when applicable.
+
+The developer does not control Google's data collection practices and does not have direct access to information collected by AdMob.
+
+For more information:
+
+- Google Privacy Policy:
+  https://policies.google.com/privacy
+
+- Google Ads Policy:
+  https://policies.google.com/technologies/ads
+
+---
+
+# 6. In-app purchases
+
+The optional **Remove Ads** feature is provided through **Google Play Billing**.
+
+All purchase transactions are processed exclusively by Google Play.
+
+The application does not collect or store:
+
+- payment card information;
+- banking information;
+- passwords;
+- payment credentials.
+
+After a valid purchase, the application checks the purchase status using Google Play Billing mechanisms in order to restore or maintain access to purchased features.
+
+Only the local information necessary to preserve the purchase state may be stored on the device.
+
+---
+
+# 7. Third-party services
+
+The application may interact with services provided by third parties, including Android and Google services.
+
+These services maintain their own Privacy Policies.
+
+They may include:
+
+- Android Location Services;
+- Google Play Services;
+- Google Play Billing;
+- Google Mobile Ads (AdMob);
+- Android native sharing.
+
+The processing performed by these services is governed by their own policies.
+
+---
+
+# 8. Security
+
+Reasonable measures are adopted to protect information processed by the application.
+
+However, no electronic storage, transmission or processing method can guarantee absolute security.
+
+---
+
+# 9. Data retention
+
+As a general rule, the application does not maintain proprietary backend servers for storing users' personal information.
+
+Whenever technically possible, information remains only on the user's own device.
+
+Locally stored information remains available until removed by the user, by clearing application data, by uninstalling the application or by Android system operations.
+
+---
+
+# 10. User rights
+
+Users may, at any time:
+
+- grant or revoke location permissions;
+- clear application data;
+- uninstall the application;
+- manage advertising identifiers when supported;
+- configure additional privacy preferences through Android and their Google Account.
+
+---
+
+# 11. Children's privacy
+
+The application is not specifically directed to children under 13 years of age.
+
+The developer does not intentionally collect personal information from children.
+
+---
+
+# 12. Changes to this Privacy Policy
+
+This Privacy Policy may be updated periodically to reflect:
+
+- legal changes;
+- technical updates;
+- new or modified application features;
+- changes involving third-party services.
+
+The latest revision date is displayed at the beginning of this document.
+
+Continued use of the application after publication of an updated version indicates awareness of the current version of this Policy.
+
+---
+
+# 13. Contact
+
+For questions, suggestions or requests related to this Privacy Policy:
+
+**marovisk.apps@gmail.com**
+
+---
+
+# 14. Transparency
+
+**Meu Endereço Geográfico** is an independent application designed to assist users in viewing, converting and sharing geographic coordinates.
+
+The application is not an official government product and is not affiliated with government agencies, military organizations, police authorities, civil defense organizations, emergency services or official mapping providers.
+
+The application does not replace official navigation systems, certified GNSS equipment, official applications, operational procedures, charts or maps.
+
+Coordinate accuracy depends on several factors, including:
+
+- GNSS signal availability;
+- device hardware;
+- Android configuration;
+- environmental conditions;
+- physical or electromagnetic interference.
+
+For critical, operational or emergency activities, users should always confirm their position using additional reliable methods and follow all applicable official procedures.
+
+---
+
+© Marovisk. All rights reserved.
