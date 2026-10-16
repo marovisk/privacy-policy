@@ -515,4 +515,252 @@ For critical, operational or emergency activities, users should always confirm t
 
 ---
 
+# Política de Privacidad
+
+**Última actualización:** 27 de julio de 2026
+
+Esta Política de Privacidad describe cómo la aplicación **Meu Endereço Geográfico**, desarrollada por **Marovisk**, accede a la información, la utiliza, la procesa y, cuando corresponde, la comparte durante su uso.
+
+La aplicación fue desarrollada para ayudar a obtener, visualizar, convertir y compartir coordenadas geográficas en diferentes sistemas de referencia y formatos.
+
+**Meu Endereço Geográfico** prioriza el procesamiento local de la información siempre que sea posible y no utiliza servidores propios para almacenar datos personales ni historiales de ubicación de los usuarios.
+
+---
+# 1. Alcance de esta Política
+
+Esta Política se aplica exclusivamente a la aplicación **Meu Endereço Geográfico** para Android.
+
+Describe:
+
+- a qué información puede acceder la aplicación;
+- cómo se utiliza esa información;
+- qué datos permanecen únicamente en el dispositivo;
+- cuándo los servicios de terceros pueden procesar determinada información;
+- qué opciones de control siguen estando disponibles para el usuario.
+
+Esta Política no se aplica a las aplicaciones, los servicios ni las páginas de terceros a los que se accede mediante el sistema Android o las funciones para compartir contenido.
+
+---
+# 2. Acceso a la ubicación
+
+Para desempeñar sus funciones principales, la aplicación solicita permiso para acceder a la ubicación del dispositivo.
+
+Los servicios de ubicación de Android pueden utilizar señales de una o varias constelaciones de sistemas globales de navegación por satélite (GNSS), incluido el GPS, según la compatibilidad del dispositivo y las condiciones de recepción, además de otras fuentes de posicionamiento proporcionadas por el sistema Android y por el propio dispositivo.
+
+Esta información se utiliza exclusivamente para:
+
+- determinar la posición actual del dispositivo;
+- mostrar coordenadas geográficas en diferentes formatos;
+- realizar conversiones entre sistemas de coordenadas;
+- ofrecer funciones relacionadas con la ubicación.
+
+Las coordenadas obtenidas se procesan localmente en la aplicación.
+
+La aplicación no transmite automáticamente las coordenadas a servidores controlados por el desarrollador.
+
+El desarrollador no mantiene un historial de las coordenadas utilizadas por el usuario.
+
+Dependiendo de la configuración de Android, el usuario podrá conceder acceso a la ubicación precisa o únicamente a la aproximada.
+
+---
+# 3. Procesamiento local de la información
+
+Siempre que sea técnicamente posible, la información se procesa directamente en el dispositivo.
+
+Esto incluye, entre otras funciones:
+
+- la conversión entre formatos de coordenadas;
+- la visualización de coordenadas;
+- la generación de los textos utilizados para compartir información;
+- la preparación de la información utilizada por la función de emergencia;
+- el funcionamiento de las herramientas de conversión.
+
+La aplicación no dispone de infraestructura propia para procesar esta información de forma remota.
+
+---
+# 4. Uso compartido voluntario de coordenadas
+
+La aplicación permite al usuario copiar o compartir coordenadas mediante los mecanismos estándar de Android.
+
+Estas operaciones solo se realizan después de una acción voluntaria y explícita del usuario.
+
+La aplicación puede:
+
+- copiar coordenadas al portapapeles de Android;
+- abrir la función nativa de compartir de Android para que el usuario elija la aplicación o el servicio de destino.
+
+La aplicación no comparte información automáticamente.
+
+La aplicación no envía coordenadas automáticamente a servicios de emergencia.
+
+La aplicación no realiza llamadas telefónicas automáticas.
+
+La aplicación no envía mensajes automáticamente.
+
+La aplicación no lee el contenido que ya existe en el portapapeles del dispositivo.
+
+Una vez que el usuario inicia el uso compartido, el tratamiento de la información pasa a ser responsabilidad de la aplicación o del servicio elegido, de acuerdo con sus propias políticas de privacidad y condiciones de uso.
+
+El desarrollador no controla el tratamiento que realizan estos servicios externos.
+
+---
+# 5. Almacenamiento local
+
+La aplicación puede almacenar determinada información exclusivamente en el propio dispositivo, utilizando los mecanismos de almacenamiento proporcionados por Android.
+
+Esta información se utiliza únicamente para el funcionamiento normal de la aplicación y puede incluir, entre otros datos:
+
+- preferencias de configuración;
+- opciones de la interfaz;
+- estado local de la compra de la función **Eliminar anuncios**;
+- otras configuraciones necesarias para preservar la experiencia de uso.
+
+Estos datos permanecen almacenados localmente y no se envían automáticamente a servidores controlados por el desarrollador.
+
+Borrar los datos de la aplicación o desinstalarla puede eliminar esta información local, según el comportamiento estándar del sistema Android.
+
+---
+# 6. Publicidad
+
+La versión gratuita de la aplicación utiliza el servicio **Google Mobile Ads (AdMob)** para mostrar anuncios.
+
+Este servicio es proporcionado por Google y puede recopilar determinada información directamente, de acuerdo con sus propias políticas de privacidad y condiciones de uso.
+
+Esta información puede incluir, entre otros datos:
+
+- identificadores publicitarios;
+- identificadores del dispositivo;
+- dirección IP;
+- información técnica del dispositivo;
+- datos de diagnóstico;
+- información sobre el rendimiento;
+- ubicación aproximada derivada de la dirección IP, cuando corresponda.
+
+El desarrollador no controla la recopilación de datos realizada por Google ni tiene acceso directo a la información recopilada por los servicios publicitarios.
+
+Para obtener más información, consulte:
+
+- Política de Privacidad de Google:
+  https://policies.google.com/privacy
+- Política de Publicidad de Google:
+  https://policies.google.com/technologies/ads
+
+---
+# 7. Compras dentro de la aplicación
+
+La aplicación ofrece, de forma opcional, la función **Eliminar anuncios**, disponible a través de **Google Play Billing**.
+
+Las transacciones se procesan exclusivamente mediante los sistemas oficiales de Google Play.
+
+La aplicación no recopila ni almacena:
+
+- datos bancarios;
+- números de tarjetas;
+- contraseñas;
+- información de pago.
+
+Después de una compra válida, la aplicación consulta el estado de la adquisición mediante los mecanismos oficiales de Google Play para restaurar o mantener el acceso a la función adquirida.
+
+Para conservar ese estado durante el uso normal de la aplicación, solo puede almacenarse localmente la información necesaria para indicar que la compra ha sido reconocida.
+
+---
+# 8. Servicios de terceros
+
+La aplicación puede interactuar con servicios proporcionados por terceros, incluidos los recursos ofrecidos por el propio sistema Android y por Google.
+
+Estos servicios pueden tener sus propias políticas de privacidad y de tratamiento de datos.
+
+Entre ellos pueden encontrarse:
+
+- Android Location Services;
+- Google Play Services;
+- Google Play Billing;
+- Google Mobile Ads (AdMob);
+- la función nativa de compartir de Android.
+
+El tratamiento realizado por estos servicios se rige por sus respectivas políticas y no por esta Política de Privacidad.
+
+---
+# 9. Seguridad de la información
+
+El desarrollador adopta medidas razonables para proteger la información tratada por la aplicación, teniendo en cuenta las características de la plataforma Android y los recursos utilizados.
+
+Sin embargo, ningún método de almacenamiento electrónico, procesamiento o transmisión de datos puede considerarse absolutamente seguro.
+
+Por este motivo, no es posible garantizar una seguridad absoluta en todas las circunstancias.
+
+---
+# 10. Conservación de la información
+
+Como regla general, la aplicación no mantiene servidores propios para almacenar información personal de los usuarios.
+
+La información utilizada durante el funcionamiento normal permanece, siempre que sea posible, únicamente en el dispositivo del usuario.
+
+Los datos almacenados localmente permanecen disponibles hasta que sean eliminados por el propio usuario, mediante el borrado de los datos de la aplicación, su desinstalación o los cambios realizados por el sistema Android.
+
+---
+# 11. Derechos del usuario
+
+El usuario puede, en cualquier momento:
+
+- conceder o revocar los permisos de ubicación;
+- borrar los datos de la aplicación;
+- desinstalar la aplicación;
+- restablecer o administrar los identificadores publicitarios, cuando estén disponibles;
+- configurar las preferencias relacionadas con la privacidad mediante Android y su cuenta de Google.
+
+Algunos servicios de terceros pueden ofrecer controles adicionales directamente en sus propias plataformas.
+
+---
+# 12. Privacidad de los menores
+
+La aplicación no ha sido desarrollada específicamente para menores de 13 años.
+
+El desarrollador no recopila intencionalmente datos personales de menores.
+
+Si se identifica un tratamiento involuntario de información que contravenga la legislación aplicable, podrán adoptarse medidas razonables para corregirlo, siempre que sea técnicamente posible.
+
+---
+# 13. Modificaciones de esta Política
+
+Esta Política de Privacidad puede actualizarse periódicamente para reflejar:
+
+- modificaciones de la legislación aplicable;
+- cambios técnicos en la aplicación;
+- incorporación, modificación o eliminación de funciones;
+- cambios relacionados con los servicios de terceros utilizados.
+
+La fecha de la última actualización se indicará al inicio de este documento.
+
+El uso continuado de la aplicación después de la publicación de una versión actualizada de esta Política indica que el usuario ha tomado conocimiento de la versión vigente.
+
+---
+# 14. Contacto
+
+Si tiene preguntas, sugerencias o solicitudes relacionadas con esta Política de Privacidad, puede escribir a la siguiente dirección:
+
+**marovisk.apps@gmail.com**
+
+---
+# 15. Transparencia y naturaleza de la aplicación
+
+**Meu Endereço Geográfico** es una herramienta independiente de apoyo para visualizar, convertir y compartir coordenadas geográficas.
+
+La aplicación no es oficial, no representa ni está afiliada o vinculada a organismos gubernamentales, militares, policiales, de protección civil, servicios de emergencia ni proveedores oficiales de cartografía.
+
+La aplicación no sustituye equipos GNSS, instrumentos de navegación, aplicaciones oficiales, procedimientos operativos, cartas, mapas ni sistemas homologados utilizados en actividades profesionales, técnicas u operativas.
+
+La precisión de las coordenadas depende de diversos factores, entre ellos:
+
+- la calidad del receptor del dispositivo;
+- los sensores disponibles;
+- la configuración del sistema Android;
+- la disponibilidad de las señales GNSS;
+- las condiciones ambientales;
+- las interferencias físicas o electromagnéticas.
+
+En actividades críticas, operativas o de emergencia, siempre se recomienda confirmar la posición mediante medios adicionales y seguir los procedimientos oficiales aplicables.
+
+---
+
 © Marovisk. All rights reserved.
